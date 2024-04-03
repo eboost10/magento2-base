@@ -1,13 +1,13 @@
 {
     "name": "eboosttech/magento2-base",
-    "description": "",
+    "description": "Base module for EBoost extension",
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0|~8.0"
     },
     "suggest": {
     },
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "BSD-4-Clause",
     "autoload": {
         "files": [
